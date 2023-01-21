@@ -44,4 +44,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bd220b2c90e5de4a9f7e1ec9885b789, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sounds: []
+  sounds:
+  - name: Coin
+    clip: {fileID: 8300000, guid: eb51ac12e1ffe144a8ffdc2a9bf5c76a, type: 3}
+    volume: 0
+    pitch: 2.11
+    loop: 0
+    source: {fileID: 0}
+  - name: Music
+    clip: {fileID: 8300000, guid: aaa0d1d1558c297439cc40cd2a177e11, type: 3}
+    volume: 0
+    pitch: 2.11
+    loop: 1
+    source: {fileID: 0}
