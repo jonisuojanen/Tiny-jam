@@ -304,7 +304,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1626236692612773523, guid: 943c95babb8513a4484d20c75cbce9a1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: 
+      value: Drink0
       objectReference: {fileID: 0}
     - target: {fileID: 1626236692612773523, guid: 943c95babb8513a4484d20c75cbce9a1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -1021,16 +1021,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   drinkList:
-  - {fileID: 11400000, guid: 7c3c6554ff7835f4485b1a82f02fb8e9, type: 2}
-  - {fileID: 11400000, guid: 7230cca0fcc6d764c98db223e4d2e535, type: 2}
-  - {fileID: 11400000, guid: 97384aac1e5e8724da91e6e59799d850, type: 2}
-  - {fileID: 11400000, guid: 064949cc26061be4692bc83a4b8cad19, type: 2}
-  bartender: {fileID: 1684567734}
+  - {fileID: 5443768383069651496, guid: 351283fb21ac9374e9dfedacc56eaedc, type: 3}
+  - {fileID: 5443768383069651496, guid: 351283fb21ac9374e9dfedacc56eaedc, type: 3}
+  - {fileID: 5443768383069651496, guid: 351283fb21ac9374e9dfedacc56eaedc, type: 3}
+  - {fileID: 5443768383069651496, guid: 351283fb21ac9374e9dfedacc56eaedc, type: 3}
   tapList:
   - {fileID: 12204437}
   - {fileID: 443517953}
   - {fileID: 1735565454}
   - {fileID: 145437938}
+  bartender: {fileID: 1684567734}
   customer1: {fileID: 1568891525}
   customer2: {fileID: 800530109}
   customer3: {fileID: 1457567199}
