@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5443768383069651496}
   - component: {fileID: 1382475261628944160}
+  - component: {fileID: 8502043714398428286}
   m_Layer: 0
   m_Name: Drink
   m_TagString: Untagged
@@ -84,3 +85,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8502043714398428286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7453317462886826024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85f07605e5b5ca43af111957c55f9b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amountFilled: 0
+  secondsToFillGlass: 1
+  timeReducedByTapping: 0.25
