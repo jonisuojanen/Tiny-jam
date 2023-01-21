@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: f9f99363c692fde42a268fbc8ea307c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 659
+        width: 212
+        height: 328
+      alignment: 9
+      pivot: {x: 0.4973704, y: 0.4694063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4b006dabf27e45ad27f13f098abb4
+      internalID: -1643116500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 659
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1698a37b094836b4e8ddbbe8ed2e4327
+      internalID: -1058731595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 659
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe65360ccf1424e89029dd37d0133a
+      internalID: -208995380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_3
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 659
+        width: 156
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d03109d026764998eeecf241cd4cb
+      internalID: -581893024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 518
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4091157, y: 0.41305515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb8165f86a14fc4ab0d0989d4ef243e
+      internalID: 1466069648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 518
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.41389894, y: 0.4171958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c0ad859427e7458de1b21b32c5626
+      internalID: 84868598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 517
+        width: 102
+        height: 120
+      alignment: 9
+      pivot: {x: 0.40339452, y: 0.43430838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26825508c47cfc469171ea032853ae3
+      internalID: 1358010694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 517
+        width: 103
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4186828, y: 0.41788533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae1920a25f12943b2447733120de76
+      internalID: 408850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 517
+        width: 103
+        height: 120
+      alignment: 9
+      pivot: {x: 0.42346606, y: 0.40556845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ae9fda47e8384fa0de9f2ed32df52
+      internalID: 1792384193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 409
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: 0.48854217, y: 0.4768149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68071e3382c2cd418f94406da25ba57
+      internalID: -1055676035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 409
+        width: 87
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5056631, y: 0.4710187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230add62084f814a91f397eb0b7c4d8
+      internalID: -998502950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 291
+        width: 497
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49702597, y: 0.7956134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d0e670d099e94e8c3881979425000
+      internalID: -833076953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 286
+        width: 162
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f1e40064c9db478d1bf6ee043c66d
+      internalID: 103154882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salooner Atlas File 2_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 823
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319f7b8c9fa3564799c282a98509756
+      internalID: -863219800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Salooner Atlas File 2_8: 1792384193
+      Salooner Atlas File 2_7: 408850566
+      Salooner Atlas File 2_6: 1358010694
+      Salooner Atlas File 2_10: -998502950
+      Salooner Atlas File 2_13: -863219800
+      Salooner Atlas File 2_4: 1466069648
+      Salooner Atlas File 2_9: -1055676035
+      Salooner Atlas File 2_3: -581893024
+      Salooner Atlas File 2_11: -833076953
+      Salooner Atlas File 2_0: -1643116500
+      Salooner Atlas File 2_2: -208995380
+      Salooner Atlas File 2_5: 84868598
+      Salooner Atlas File 2_12: 103154882
+      Salooner Atlas File 2_1: -1058731595
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
