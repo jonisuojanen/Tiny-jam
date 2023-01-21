@@ -44,3 +44,6 @@ TagManager:
   - name: Drinks
     uniqueID: 3355164485
     locked: 0
+  - name: Player
+    uniqueID: 1511803221
+    locked: 0
