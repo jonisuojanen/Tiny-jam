@@ -501,6 +501,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 27649769}
     m_Modifications:
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1638661733, guid: c7e86d95d020c834e9e30b76a0d1c4d3, type: 3}
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2791052512207555401, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_Name
       value: Customer Button (3)
@@ -536,6 +544,10 @@ PrefabInstance:
     - target: {fileID: 4442460514471133226, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8111500693847487366, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8642853577327979463, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_text
@@ -575,7 +587,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_LocalPosition.x
@@ -607,7 +619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 282
+      value: 299
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1628,6 +1640,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 27649769}
     m_Modifications:
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1638661733, guid: c7e86d95d020c834e9e30b76a0d1c4d3, type: 3}
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2791052512207555401, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_Name
       value: Customer Button
@@ -1663,6 +1683,10 @@ PrefabInstance:
     - target: {fileID: 4442460514471133226, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8111500693847487366, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8642853577327979463, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_text
@@ -1702,7 +1726,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1734,11 +1758,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -292
+      value: -273
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -169
+      value: -159
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2098,6 +2122,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 27649769}
     m_Modifications:
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1638661733, guid: c7e86d95d020c834e9e30b76a0d1c4d3, type: 3}
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2791052512207555401, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_Name
       value: Customer Button (2)
@@ -2133,6 +2165,10 @@ PrefabInstance:
     - target: {fileID: 4442460514471133226, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8111500693847487366, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8642853577327979463, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_text
@@ -2172,7 +2208,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2204,7 +2240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 78
+      value: 103
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -2242,6 +2278,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 27649769}
     m_Modifications:
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1638661733, guid: c7e86d95d020c834e9e30b76a0d1c4d3, type: 3}
+    - target: {fileID: 284243135254219640, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2791052512207555401, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_Name
       value: Customer Button (1)
@@ -2277,6 +2321,10 @@ PrefabInstance:
     - target: {fileID: 4442460514471133226, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8111500693847487366, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8642853577327979463, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_text
@@ -2316,7 +2364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2348,7 +2396,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -113
+      value: -82
       objectReference: {fileID: 0}
     - target: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
       propertyPath: m_AnchoredPosition.y
