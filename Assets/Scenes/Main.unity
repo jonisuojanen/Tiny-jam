@@ -132,6 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 12204437}
+  - component: {fileID: 12204438}
   m_Layer: 0
   m_Name: TapPoint(0)
   m_TagString: Untagged
@@ -154,6 +155,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &12204438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12204436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3d919415ec7ad43b791b37e33dba6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _container: {fileID: 0}
 --- !u!1 &27649765
 GameObject:
   m_ObjectHideFlags: 0
@@ -420,6 +434,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 145437938}
+  - component: {fileID: 145437939}
   m_Layer: 0
   m_Name: TapPoint (3)
   m_TagString: Untagged
@@ -442,6 +457,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &145437939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 145437937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3d919415ec7ad43b791b37e33dba6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _container: {fileID: 0}
 --- !u!1001 &279553325
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1001,6 +1029,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443517953}
+  - component: {fileID: 443517954}
   m_Layer: 0
   m_Name: TapPoint (1)
   m_TagString: Untagged
@@ -1023,6 +1052,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &443517954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443517952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3d919415ec7ad43b791b37e33dba6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _container: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,7 +1367,7 @@ MonoBehaviour:
   drink: {fileID: 5443768383069651496, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
   coinsPerDrink: 2
   audioManager: {fileID: 1073015017}
-  hireButton: {fileID: 0}
+  hireButton: {fileID: 3008744298429263687}
   customer: {fileID: 0}
 --- !u!4 &580726577
 Transform:
@@ -1357,10 +1399,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   drinkList:
-  - {fileID: 7453317462886826024, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
-  - {fileID: 7453317462886826024, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
-  - {fileID: 7453317462886826024, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
-  - {fileID: 7453317462886826024, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
+  - {fileID: 5443768383069651496, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
+  - {fileID: 5443768383069651496, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
+  - {fileID: 5443768383069651496, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
+  - {fileID: 5443768383069651496, guid: 3a342b3f4fc4a2a44ab1fdab8dfb2c96, type: 3}
   tapList:
   - {fileID: 12204437}
   - {fileID: 443517953}
@@ -2620,6 +2662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1735565454}
+  - component: {fileID: 1735565455}
   m_Layer: 0
   m_Name: TapPoint (2)
   m_TagString: Untagged
@@ -2642,6 +2685,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1735565455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735565453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3d919415ec7ad43b791b37e33dba6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _container: {fileID: 0}
 --- !u!1 &2021876124
 GameObject:
   m_ObjectHideFlags: 0
@@ -3303,3 +3359,14 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 8943615996964466003, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
   m_PrefabInstance: {fileID: 3008744298429263684}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &3008744298429263687 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4442460514471133226, guid: 2797aa5e69df22e4c9df272df252b595, type: 3}
+  m_PrefabInstance: {fileID: 3008744298429263684}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
